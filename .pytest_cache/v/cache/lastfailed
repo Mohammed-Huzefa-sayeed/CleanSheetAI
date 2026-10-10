@@ -1,0 +1,3 @@
+{
+  "tests/test_customer_regression.py::TestMissingEmailProtection::test_ai_recommender_flags_email_as_high_risk": true
+}

@@ -1,0 +1,26 @@
+order_id,Customer Name,customer_name,email,  phone  ,product,category,quantity,unit_price,total,order_date,ship_date,status,ZIP Code,Country
+1001,John Smith,john smith,john.smith@email.com,+1-555-0101,Widget A,Electronics,2,29.99,59.98,2024-01-15,2024-01-18,Shipped,00123,USA
+1002,Jane Doe,jane doe,jane.doe@email.com,555.0102,Widget B,electronics,1,49.99,49.99,01/20/2024,01/23/2024,shipped,10001,USA
+1003,Bob Johnson,bob johnson,bob.johnson@email.com,+1 555 0103,Gadget C,Electronics,3,19.99,59.97,2024-02-01,2024-02-05,Delivered,90210,US
+1004,  Alice Williams ,alice williams,alice.w@email.com,,Widget A,Elctronics,1,29.99,29.99,2024/02/10,,Pending,30301,United States
+1005,John Smith,john smith,j.smith@email.com,+1-555-0101,Widget A,Electronics,2,29.99,59.98,2024-01-15,2024-01-18,Shipped,00123,USA
+1006,Charlie Brown,charlie brown,charlie.b@email.com,5550106,Gadget D, Electronics,,-15.99,,Feb 28 2024,2024-03-03,Deliverred,60601,USA
+1007,Diana Prince,diana prince,diana@email.com,+1-555-0107,Widget B,Electronics,1,49.99,49.99,2024-03-10,2024-03-12,Shipped,20001,US
+1008,  Bob  Johnson  ,bob johnson,bob.johnson@email.com,+1 555 0103,Gadget C,ELECTRONICS,3,19.99,59.97,2024-02-01,2024-02-05,Delivered,90210,usa
+1009,Eve Adams,eve adams,eve.adams@email.com,+1-555-0109,Widget C,Electronics,5,9.99,49.95,2024-03-15,,Processing,75201,USA
+1010,Frank Castle,frank castle,frank@castle.com,555-0110,Gadget E,Electronics,2,99.99,199.98,20-03-2024,22-03-2024,shipped,33101,United States
+1011,,,,,,,,,,,,,,
+1012,Grace Hopper,grace hopper,grace@hopper.com,+1-555-0112,Widget A,Electronics,1,twenty-nine,29.99,2024-04-01,2024-04-03,Shipped,02101,USA
+1013,Hank Pym,hank pym,hank.pym@email.com,+1-555-0113,  Gadget F  ,electronics ,0,39.99,0,2024-04-10,2024-04-12,Delivered,85001,US
+1014,Ivy League,ivy league,ivy@email.com,+1-555-0114,Widget B,Electronics,2,49.99,99.98,2024-04-15,2024-04-17,SHIPPED,97201,usa
+1015,John Smth,john smth,johnsmith@email.com,+1-555-0101,Widget A,Electronics,2,29.99,59.98,2024-01-15,2024-01-18,Shipped,00123,USA
+1016,Jack Ryan,jack ryan,jack.r@email.com,fifteen,Gadget G,Eletronics,3,24.99,74.97,13/04/2024,2024-04-16,Pending,40201,United States
+1017,Kate Bishop,kate bishop,kate.bishop@email.com,+1-555-0117,Widget D,Electronics,1,149.99,149.99,2024-05-01,2024-05-03,Delivered,10002,USA
+1018,Leo Messi,leo messi,leo@email.com,+1-555-0118,Gadget H,Electronics,10,5.99,59.90,2024-05-10,2024-05-12,Shipped,90001,US
+1019,Mia Wong,mia wong,mia.wong@email.com,+1-555-0119,Widget A,electronics,1,$29.99,29.99,May 15 2024,2024-05-17,Processing,60602,USA
+1020,Nick Fury,nick fury,nick@shield.com,+1-555-0120,GADGET C,ELECTRONICS,4,19.99,79.96,2024-05-20,2024-05-23,Delivered,20002,United States of America
+1021,John Smith,john smith,john.smith@email.com,+1-555-0101,Widget A,Electronics,2,29.99,59.98,2024-01-15,2024-01-18,Shipped,00123,USA
+1022,Oscar Wilde,oscar wilde,oscar@email.com,+1-555-0122,Widget E,,1,199.99,199.99,2024-06-01,2024-06-03,Shipped,30302,USA
+1023,Pam Beesly,pam beesly,pam@dundermifflin.com,+1-555-0123,Gadget I,Electronics,2,14.99,29.98,2024-06-10,June 12th 2024,Delivered,18501,US
+1024,Quinn Hughes,quinn hughes,quinn@email.com,+1-555-0124,Widget B,Electronics,-1,49.99,-49.99,2024-06-15,2024-06-17,Returned,98101,USA
+1025,Rachel Green,rachel green,rachel@centralperk.com,+1-555-0125,Gadget J,Electronics,3,34.99,104.97,2024-06-20,,Pending,10003,USA
