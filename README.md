@@ -132,7 +132,7 @@ All 36 unit tests pass covering data loading, cleaning operators, date parsing, 
 
 This project was developed by:
 
-Mohammed Huzefa Sayeed — Project Lead
-Abdul Khadar— Data Cleaning and Preprocessing
-Mohammad Saqibuddin — AI Integration
-Mohammad Saaduddin — UI/UX and Testing
+Mohammed Huzefa Sayeed — Project Lead,
+Abdul Khadar— Data Cleaning and Preprocessing,
+Mohammad Saqibuddin — AI Integration,
+Mohammad Saaduddin — UI/UX and Testing.
