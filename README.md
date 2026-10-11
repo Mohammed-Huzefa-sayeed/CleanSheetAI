@@ -128,3 +128,11 @@ python -m unittest discover tests
 ```
 
 All 36 unit tests pass covering data loading, cleaning operators, date parsing, fuzzy deduplication, formula injection prevention, validation rules, recipes, and PDF report generation.
+## Contributors
+
+This project was developed by:
+
+Mohammed Huzefa Sayeed — Project Lead
+Abdul Khadar— Data Cleaning and Preprocessing
+Mohammad Saqibuddin — AI Integration
+Mohammad Saaduddin — UI/UX and Testing
