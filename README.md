@@ -135,4 +135,4 @@ This project was developed by:
 Mohammed Huzefa Sayeed — Project Lead,
 Abdul Khadar— Data Cleaning and Preprocessing,
 Mohammad Saqibuddin — AI Integration,
-Mohammad Saaduddin — UI/UX and Testing.
+Mohammad Saaduddin — UI/UX and Testing
